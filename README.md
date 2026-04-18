@@ -1,2 +1,2 @@
-# Proyecto-POO
+# Proyecto-POO (eclipse)
 Proyecto Final POO
